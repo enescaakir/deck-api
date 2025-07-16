@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 ## 📞 Contact
 
 **Developer**: Enes Çakır  
-[**GitHub**](https://github.com/enescaakir) | [**Linkedin**](https://www.linkedin.com/in/enescaakir/)
+[**Website**](https://enescakr.com/) | [**GitHub**](https://github.com/enescaakir) | [**Linkedin**](https://www.linkedin.com/in/enescaakir/)
 
 ---
 
